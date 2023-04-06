@@ -1,1 +1,1 @@
-# recipe-story
+# recipe-store
